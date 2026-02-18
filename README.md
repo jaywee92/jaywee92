@@ -57,15 +57,20 @@ class jaywee92:
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaywee92&show_icons=true&theme=transparent&hide_border=true&count_private=true&bg_color=0d1117&title_color=00E9FF&text_color=AA6BC3&icon_color=00E9FF)
+<details>
+<summary>Click to expand</summary>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywee92&layout=compact&theme=transparent&hide_border=true&bg_color=0d1117&title_color=00E9FF&text_color=AA6BC3&icon_color=00E9FF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaywee92&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywee92&layout=compact&hide_border=true)
+
+</details>
 
 ---
 
 ## 📈 Activity Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaywee92&theme=github-dark-dimmed&bg_color=0d1117&color=00E9FF&line=AA6BC3&point=00E9FF&area=true&area_color=00E9FF30)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaywee92&bg_color=0d1117&color=00e9ff&line=00e9ff&point=00e9ff)
 
 ---
 
