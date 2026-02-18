@@ -6,7 +6,7 @@
 
 # 👋 _INITIALIZING CONNECTION..._
 
-## ████ jaywee92 ████ // FULL-STACK DEVELOPER // AI ENTHUSIAST
+## >> jaywee92 // FULL-STACK DEVELOPER // AI ENTHUSIAST
 
 ---
 
@@ -28,21 +28,21 @@
 
 ## 💻 >_ SYSTEM INFO
 
-```python
-╔═══════════════════════════════════════════════════════╗
-║  OPERATOR:        jaywee92                            ║
-║  STATUS:          ONLINE // LEARNING_MODE             ║
-║  LOCATION:        Berlin, Germany                     ║
-║  EDUCATION:       WBS Coding School                   ║
-║  FOCUS:           [Python, JavaScript, React, AI]     ║
-║  BACKGROUND:      IT Infrastructure & Comm. Engineer  ║
-║  OBJECTIVE:       Junior Full-Stack Developer 🚀      ║
-╚═══════════════════════════════════════════════════════╝
+```
++============================================+
+|  OPERATOR:       jaywee92                  |
+|  STATUS:         ONLINE // LEARNING_MODE   |
+|  LOCATION:       Berlin, Germany          |
+|  EDUCATION:      WBS Coding School       |
+|  FOCUS:          [Python, JS, React, AI] |
+|  BACKGROUND:     IT Infra & Comm. Eng.   |
+|  OBJECTIVE:       Junior Dev 🚀           |
++============================================+
 ```
 
 ---
 
-## ⚔️ _EQUIPPED WEAPONS (Tech Stack)_
+## ⚔️ >_ EQUIPPED WEAPONS (Tech Stack)
 
 <p>
   <img src="https://img.shields.io/badge/Python-00FF00?style=flat-square&logo=python&logoColor=000" />
@@ -67,7 +67,7 @@
 ## 📊 >_ GITHUB ANALYTICS
 
 <details>
-<summary>Click to reveal data stream</summary>
+<summary>> Click to reveal data stream</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=jaywee92&show_icons=true&theme=transparent" />
 
@@ -108,6 +108,6 @@
 
 ---
 
-### ████ SYSTEM STATUS: OPERATIONAL ████
+### >> SYSTEM STATUS: OPERATIONAL <<
 
 </div>
