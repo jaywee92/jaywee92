@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&center=true&vCenter=true&width=400&lines=Building+The+Future+🛠️;Learning+Every+Day+📚;Open+Source+Enthusiast+💻" />
+</p>
+
+---
+
 ## 💫 About Me
 
 ```python
@@ -28,7 +34,7 @@ class jaywee92:
         return "Full-Stack Development & AI"
     
     def looking_for(self):
-        return "Junior Software Engineer Position"
+        return "Junior Software Engineer Position 🚀"
 ```
 
 ---
@@ -69,6 +75,12 @@ class jaywee92:
 
 ---
 
+## ⚡ GitHub Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaywee92&theme=dark&hide_border=true&background=0d1117" />
+
+---
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jochen-wahl/)
@@ -78,8 +90,12 @@ class jaywee92:
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=jaywee92&style=for-the-badge&color=00E9FF" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaywee92&style=for-the-badge&color=00E9FF" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</p>
 
 </div>
