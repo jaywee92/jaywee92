@@ -4,11 +4,11 @@
 
 ### 🎯 Junior Software Engineer | Full-Stack Development & AI
 
-[![GitHub Follow](https://img.shields.io/badge/Follow-000000?style=for-the-badge&logo=github&logoColor=00E9FF)](https://github.com/jaywee92)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:jochenwahl92@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/jochen-wahl/)
-[![Xing](https://img.shields.io/badge/Xing-000000?style=for-the-badge&logo=x&logoColor=00E9FF)](https://www.xing.com/profile/Jochen_Wahl13/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00E9FF?style=for-the-badge&logo=internet-explorer&logoColor=000000)](https://xovex.de)
+[![GitHub](https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=00E9FF)](https://github.com/jaywee92)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:jochenwahl92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jochen-wahl/)
+[![Xing](https://img.shields.io/badge/Xing-000?style=for-the-badge&logo=x)](https://www.xing.com/profile/Jochen_Wahl13/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00E9FF?style=for-the-badge&logo=🌐)](https://xovex.de)
 
 ---
 
@@ -35,15 +35,23 @@ class jaywee92:
 
 ## 🛠 Tech Stack
 
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=3776AB)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=F7DF1E)](https://javascript.org)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6)](https://typescriptlang.org)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB)](https://reactjs.org)
-[![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=2496ED)](https://docker.com)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white&labelColor=336791)](https://postgresql.org)
-[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=FF9900)](https://aws.amazon.com)
-[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white&labelColor=0089D6)](https://azure.microsoft.com)
-[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=FCC624)](https://linux.org)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339939?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -63,10 +71,10 @@ class jaywee92:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jochen-wahl/)
-[![Xing](https://img.shields.io/badge/Xing-000000?style=for-the-badge&logo=x&logoColor=00E9FF)](https://www.xing.com/profile/Jochen_Wahl13/)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00E9FF)](https://github.com/jaywee92)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:jochenwahl92@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jochen-wahl/)
+[![Xing](https://img.shields.io/badge/Xing-000?style=for-the-badge&logo=x)](https://www.xing.com/profile/Jochen_Wahl13/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jaywee92)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:jochenwahl92@gmail.com)
 
 ---
 
