@@ -4,6 +4,10 @@
 
 ### 🎯 Junior Software Engineer | Full-Stack Development & AI
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jaywee92/jaywee92/main/logo.svg" width="250" alt="jaywee92 Logo"/>
+</p>
+
 [![GitHub](https://img.shields.io/badge/Follow-000?style=for-the-badge&logo=github&logoColor=00E9FF)](https://github.com/jaywee92)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:jochenwahl92@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jochen-wahl/)
