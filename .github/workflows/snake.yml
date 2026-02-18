@@ -1,0 +1,42 @@
+name: Generate GitHub Contribution Grid Snake Animation
+
+on:
+  schedule:
+    # Runs at 00:00 UTC every day
+    - cron: '0 0 * * *'
+  # Allows manual trigger
+  workflow_dispatch:
+  # Runs on every push to main branch
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contribution Grid Snake SVG
+        uses: Platane/sink@main
+        with:
+          user: jaywee92
+          outputs: |
+            output/github-contribution-grid-snake-dark.svg
+            output/github-contribution-grid-snake.svg
+
+      - name: Push GitHub Contribution Grid Snake SVG to GitHub Repository
+        uses: Platane/sink@main
+        with:
+          user: jaywee92
+          outputs: |
+            output/github-contribution-grid-snake-dark.svg
+            output/github-contribution-grid-snake.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
