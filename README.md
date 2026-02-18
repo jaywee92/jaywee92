@@ -57,20 +57,15 @@ class jaywee92:
 
 ## 📊 GitHub Stats
 
-<details>
-<summary>Click to expand</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=jaywee92&show_icons=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaywee92&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaywee92&layout=compact&hide_border=true)
-
-</details>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaywee92&layout=compact" />
 
 ---
 
 ## 📈 Activity Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaywee92&bg_color=0d1117&color=00e9ff&line=00e9ff&point=00e9ff)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jaywee92&bg_color=0d1117&color=00e9ff&line=00e9ff&point=00e9ff" />
 
 ---
 
@@ -83,8 +78,8 @@ class jaywee92:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=jaywee92&style=for-the-badge&color=00E9FF)
+<img src="https://komarev.com/ghpvc/?username=jaywee92&style=for-the-badge&color=00E9FF" />
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
 
 </div>
