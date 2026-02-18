@@ -1,4 +1,4 @@
-<h2 style="font-size: 36px;">Hallo! 👋 Ich bin Jochen</h2>
+<h2 style="font-size: 36px;">Hello! 👋 I'm jaywee92</h2>
 
 <a href="https://github.com/jaywee92">
   <img src="https://img.shields.io/badge/Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow Badge"/>
@@ -16,22 +16,18 @@
   <img src="https://img.shields.io/badge/Portfolio-web?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio Badge"/>
 </a>
 
-Ich befinde mich aktuell in einer **Vollzeit-Weiterbildung zum Software Engineer** mit Schwerpunkt Full-Stack-Entwicklung und Applied AI. Zunächst war ich mehrere Jahre als **IT Infrastructure & Communications Engineer** tätig.
+Currently in a **full-time training to become a Software Engineer** focusing on Full-Stack Development and Applied AI. Previously worked as an **IT Infrastructure & Communications Engineer** for several years.
 
-Mein Fokus liegt auf der Entwicklung moderner Webanwendungen und der Verbindung von Infrastruktur-Know-how mit moderner Softwareentwicklung.
+My focus is on developing modern web applications and combining infrastructure expertise with modern software development.
 
-### 🐍 Schau dir meine Python-Contributions an
-![github contribution grid snake animation](https://raw.githubusercontent.com/jaywee92/jaywee92/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/jaywee92/jaywee92/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+### 👨‍💻 About me:
 
-### 👨‍💻 Über mich:
+- 📚 Current: Software Engineer training (WBS Coding School)
+- 💼 Previous: IT Infrastructure & Communications Engineer at Ostertag DeTeWe GmbH
+- 🎯 Goal: Junior Software Engineer / Full-Stack Developer
+- 🌐 Location: Berlin, Germany
 
-- 📚 Aktuell: Weiterbildung zum Software Engineer (WBS Coding School)
-- 💼 Zunächst: IT Infrastructure & Communications Engineer bei Ostertag DeTeWe GmbH
-- 🎯 Ziel: Junior Software Engineer / Full-Stack Developer
-- 🌐 Location: Berlin, Deutschland
-
-### 🛠 Sprachen und Tools:
+### 🛠 Languages and Tools:
 
 <div align="center">
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>

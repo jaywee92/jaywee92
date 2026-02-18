@@ -2,15 +2,9 @@ name: Generate GitHub Contribution Grid Snake Animation
 
 on:
   schedule:
-    # Runs at 00:00 UTC every day
     - cron: '0 0 * * *'
-  # Allows manual trigger
   workflow_dispatch:
-  # Runs on every push to main branch
   push:
-    branches:
-      - main
-  pull_request:
     branches:
       - main
 
@@ -21,22 +15,26 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate GitHub Contribution Grid Snake SVG
-        uses: Platane/sink@main
-        with:
-          user: jaywee92
-          outputs: |
-            output/github-contribution-grid-snake-dark.svg
-            output/github-contribution-grid-snake.svg
-
-      - name: Push GitHub Contribution Grid Snake SVG to GitHub Repository
-        uses: Platane/sink@main
-        with:
-          user: jaywee92
-          outputs: |
-            output/github-contribution-grid-snake-dark.svg
-            output/github-contribution-grid-snake.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@v4
+      
+      - name: Generate contribution graph
+        run: |
+          mkdir -p output
+          # Create a simple contribution placeholder
+          cat > output/github-contribution-grid-snake-dark.svg << 'EOF'
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200">
+  <rect width="800" height="200" fill="#0d1117"/>
+  <text x="400" y="100" fill="#00e9ff" font-family="Arial" font-size="18" text-anchor="middle">
+    Check my contributions at github.com/jaywee92
+  </text>
+</svg>
+EOF
+          cp output/github-contribution-grid-snake-dark.svg output/github-contribution-grid-snake.svg
+      
+      - name: Push
+        run: |
+          git config user.email "jochenwahl92@gmail.com"
+          git config user.name "GitHub Action"
+          git add -A
+          git commit -m "Update contribution graph" || exit 0
+          git push
