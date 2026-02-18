@@ -24,10 +24,6 @@
 
 ### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaywee92&style=for-the-badge&color=00e9ff" alt="profile views"/>
-</p>
-
 ```python
 class SoftwareEngineer:
     def __init__(self):
@@ -66,39 +62,29 @@ class SoftwareEngineer:
 
 ---
 
-<div align="center">
-
-### 🔥 Streak Stats
-
-<img src="http://enoupee.me/streak-stats/?user=jaywee92&theme=radical&bg=0d1117&border=00e9ff&text=00e9ff" />
-
----
-
 ### 🤝 Connect With Me
 
-<a href="https://www.linkedin.com/in/jochen-wahl/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.xing.com/profile/Jochen_Wahl13/">
-  <img src="https://img.shields.io/badge/Xing-000000?style=for-the-badge&logo=x&logoColor=white" alt="Xing"/>
-</a>
-<a href="https://github.com/jaywee92">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="mailto:jochenwahl92@gmail.com">
-  <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jochen-wahl/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.xing.com/profile/Jochen_Wahl13/">
+    <img src="https://img.shields.io/badge/Xing-000000?style=for-the-badge&logo=x&logoColor=white" alt="Xing"/>
+  </a>
+  <a href="https://github.com/jaywee92">
+    <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:jochenwahl92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaywee92&style=flat-square&color=00e9ff&label=Profile+Views" alt="profile views"/>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00e9ff&height=200&section=footer" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaywee92&style=flat-square&color=00e9ff&label=Profile+Views" alt="profile views"/>
-  <img src="https://badges.tover.cc/badge/jaywee92-stars?style=flat-square&color=00e9ff" alt="stars"/>
-  <img src="https://badges.tover.cc/badge/jaywee92-followers?style=flat-square&color=00e9ff" alt="followers"/>
-</p>
-
-</div>
